@@ -1,4 +1,4 @@
-# - DIO Bootcamp .NET Fundamentals
+# DIO Bootcamp .NET Fundamentals
 
 ### Introdução a Programação com C Sharp
 ######  IntroCSharp
