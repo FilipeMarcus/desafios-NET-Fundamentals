@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IntroDotNet03/1.0.0": {
+        "runtime": {
+          "IntroDotNet03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroDotNet03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\obj\Debug\net5.0\SProbDotNet03.csprojAssemblyReference.cache
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\obj\Debug\net5.0\SProbDotNet03.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\obj\Debug\net5.0\SProbDotNet03.AssemblyInfoInputs.cache
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\obj\Debug\net5.0\SProbDotNet03.AssemblyInfo.cs
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\obj\Debug\net5.0\SProbDotNet03.csproj.CoreCompileInputs.cache
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\bin\Debug\net5.0\SProbDotNet03.exe
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\bin\Debug\net5.0\SProbDotNet03.deps.json
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\bin\Debug\net5.0\SProbDotNet03.runtimeconfig.json
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\bin\Debug\net5.0\SProbDotNet03.runtimeconfig.dev.json
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\bin\Debug\net5.0\SProbDotNet03.dll
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\bin\Debug\net5.0\ref\SProbDotNet03.dll
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\bin\Debug\net5.0\SProbDotNet03.pdb
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\obj\Debug\net5.0\SProbDotNet03.dll
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\obj\Debug\net5.0\ref\SProbDotNet03.dll
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\obj\Debug\net5.0\SProbDotNet03.pdb
+C:\gitworkspace\desafios-NETfundamentals\SProbDotNet03\obj\Debug\net5.0\SProbDotNet03.genruntimeconfig.cache

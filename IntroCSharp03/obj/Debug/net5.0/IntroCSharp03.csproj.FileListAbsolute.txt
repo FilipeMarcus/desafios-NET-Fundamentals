@@ -1,0 +1,16 @@
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\bin\Debug\net5.0\IntroCSharp03.exe
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\bin\Debug\net5.0\IntroCSharp03.deps.json
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\bin\Debug\net5.0\IntroCSharp03.runtimeconfig.json
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\bin\Debug\net5.0\IntroCSharp03.runtimeconfig.dev.json
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\bin\Debug\net5.0\IntroCSharp03.dll
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\bin\Debug\net5.0\ref\IntroCSharp03.dll
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\bin\Debug\net5.0\IntroCSharp03.pdb
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\obj\Debug\net5.0\IntroCSharp03.csprojAssemblyReference.cache
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\obj\Debug\net5.0\IntroCSharp03.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\obj\Debug\net5.0\IntroCSharp03.AssemblyInfoInputs.cache
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\obj\Debug\net5.0\IntroCSharp03.AssemblyInfo.cs
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\obj\Debug\net5.0\IntroCSharp03.csproj.CoreCompileInputs.cache
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\obj\Debug\net5.0\IntroCSharp03.dll
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\obj\Debug\net5.0\ref\IntroCSharp03.dll
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\obj\Debug\net5.0\IntroCSharp03.pdb
+C:\gitworkspace\desafios-NETfundamentals\IntroCSharp03\obj\Debug\net5.0\IntroCSharp03.genruntimeconfig.cache

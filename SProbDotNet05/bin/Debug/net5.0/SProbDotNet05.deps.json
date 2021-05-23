@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SProbDotNet05/1.0.0": {
+        "runtime": {
+          "SProbDotNet05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SProbDotNet05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

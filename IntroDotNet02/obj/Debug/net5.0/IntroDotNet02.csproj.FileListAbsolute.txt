@@ -1,0 +1,16 @@
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\obj\Debug\net5.0\IntroDotNet02.csprojAssemblyReference.cache
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\obj\Debug\net5.0\IntroDotNet02.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\obj\Debug\net5.0\IntroDotNet02.AssemblyInfoInputs.cache
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\obj\Debug\net5.0\IntroDotNet02.AssemblyInfo.cs
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\obj\Debug\net5.0\IntroDotNet02.csproj.CoreCompileInputs.cache
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\bin\Debug\net5.0\IntroDotNet02.exe
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\bin\Debug\net5.0\IntroDotNet02.deps.json
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\bin\Debug\net5.0\IntroDotNet02.runtimeconfig.json
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\bin\Debug\net5.0\IntroDotNet02.runtimeconfig.dev.json
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\bin\Debug\net5.0\IntroDotNet02.dll
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\bin\Debug\net5.0\ref\IntroDotNet02.dll
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\bin\Debug\net5.0\IntroDotNet02.pdb
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\obj\Debug\net5.0\IntroDotNet02.dll
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\obj\Debug\net5.0\ref\IntroDotNet02.dll
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\obj\Debug\net5.0\IntroDotNet02.pdb
+C:\gitworkspace\desafios-NETfundamentals\IntroDotNet02\obj\Debug\net5.0\IntroDotNet02.genruntimeconfig.cache
