@@ -20,9 +20,3 @@
 - [ X ] Desafio 03 - Compras no Supermercado
 - [ X ] Desafio 04 - Validador de Senhas com requisitos
 - [ X ] Desafio 05 - Fila do Banco
-
-### Iniciando a programar em C#
-###### InicioCSharp
-- [ X ] Desafio 01 - Dividindo X por Y (repetido)
-- [  ] Desafio 02 - Soma Simples
-- [  ] Desafio 03 - Média 1
